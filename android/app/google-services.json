@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "807083141240",
+    "firebase_url": "https://rotacidade-973a7-default-rtdb.firebaseio.com",
+    "project_id": "rotacidade-973a7",
+    "storage_bucket": "rotacidade-973a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807083141240:android:78dfb3fee465c71ed1a58d",
+        "android_client_info": {
+          "package_name": "com.rotaofc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNC9eyjx0J0TT4WLl6VLslFciGRm0CG2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
